@@ -9,10 +9,10 @@ Learn Python For any one and any Where but we need you time to learn.
 6. Tuples.ipynb	
 7. Sets and Booleans.ipynb	
 8. Comparison Operators.ipynb	
-8.1 . Objects and Data Structures Assessment Test-Solution.ipynb	
+    * Objects and Data Structures Assessment Test-Solution.ipynb	
 9. Chained Comparison Operators.ipynb	
-9.1 Introduction to Python Statements.ipynb	
-9.2 Objects and Data Structures Assessment Test.ipynb
+    *  Introduction to Python Statements.ipynb	
+    *  Objects and Data Structures Assessment Test.ipynb
 10. If, elif, and else Statements.ipynb	
 11. For Loops.ipynb	
 12. While loops.ipynb	
@@ -26,18 +26,18 @@ Learn Python For any one and any Where but we need you time to learn.
 20. Nested Statements and Scope.ipynb	
 21. Functions and Methods Homework.ipynb	
 22. Functions and Methods Homework - Solutions.ipynb	
-23. Milestone Project 1- Assignment.ipynb	
-24. Milestone Project 1- Walkthrough Steps Workbook.ipynb	
-25. Milestone Project 1- Complete Walkthrough Solution.ipynb	
-26. Milestone Project 1 - Advanced Solution.ipynb	
+    *  Milestone Project 1- Assignment.ipynb	
+    *  Milestone Project 1- Walkthrough Steps Workbook.ipynb	
+    *  Milestone Project 1- Complete Walkthrough Solution.ipynb	
+    *  Milestone Project 1 - Advanced Solution.ipynb	
 27. Object Oriented Programming.ipynb	
 28. Errors and Exceptions Handling.ipynb	
 28. Object Oriented Programming Homework -Assignment.ipynb	
 29. Errors and Exceptions Homework.ipynb	
 30. Object Oriented Programming Homework -Solution.ipynb	
 31. Errors and Exceptions Homework - Solution.ipynb	
-32. Milestone Project 2 - Assignment.ipynb	
-33. Milestone Project 2 Solution.ipynb	
+    *  Milestone Project 2 - Assignment.ipynb	
+    *  Milestone Project 2 Solution.ipynb	
 34. Modules and Packages.ipynb	
 35. Map.ipynb	
 36. Filter.ipynb	
@@ -47,13 +47,13 @@ Learn Python For any one and any Where but we need you time to learn.
 40. All() and any().ipynb	
 40. Final Capstone Project.ipynb	
 41. Complex.ipynb	
-41.1. Decorators Homework.ipynb	
+    *  Decorators Homework.ipynb	
 42. Decorators.ipynb	
 42. Iterators and Generators.ipynb	
 43. Iterators and Generators Homework.ipynb	
 43. Python Debugger (pdb).ipynb	
 44. Collections Module.ipynb	
-44.1. Iterators and Generators Homework - Solution.ipynb	
+    *  Iterators and Generators Homework - Solution.ipynb	
 45. Datetime.ipynb	
 46. Timing your code - timeit.ipynb	
 47. Regular Expressions.ipynb	
